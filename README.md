@@ -7,3 +7,6 @@ This class provides a hands-on experience in robotics (Python and ROS), alognsid
 
 
 <img src="./IMAGE/IMG_4895.jpeg" width="80%" />
+
+
+<img src="./IMAGE/IMG_4896.jpg" width="80%" />
