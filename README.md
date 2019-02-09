@@ -3,3 +3,7 @@ This class provides a hands-on experience in robotics (Python and ROS), alognsid
 (i) Modeling <br />
 (ii) Computer Vision <br />
 (iii) Control <br />
+
+
+
+<img src="./IMAGE/IMG_4895.jpeg" width="80%" />
