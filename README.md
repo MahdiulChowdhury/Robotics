@@ -4,7 +4,15 @@ This class provides a hands-on experience in robotics (Python and ROS), alognsid
 (ii) Computer Vision <br />
 (iii) Control <br />
 
-
+Hardwares                       Softwares /> 
+Raspberry Pi 3              />
+RPi Camera v2 />
+120:1 gearmotor />
+Motor bracket />
+Motor driver />
+IMU />
+32GB MicroSD card />
+9V battery />
 
 <img src="./IMAGE/IMG_4895.jpeg" width="80%" />
 
