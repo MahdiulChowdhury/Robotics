@@ -18,7 +18,7 @@ Softwares <br />
 Robot Operating System on Ubuntu 16.04  <br />
 Programming Language: Python <br />
 
-<img src="./IMAGE/IMG_4895.jpeg" width="80%" 
+<img src="./IMAGE/IMG_4895.jpeg" width="80%" >
 
 
-<img src="./IMAGE/IMG_4896.jpg" width="80%" 
+<img src="./IMAGE/IMG_4896.jpg" width="80%" >
